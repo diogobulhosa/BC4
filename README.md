@@ -1,3 +1,18 @@
+# Project Organization: 
+Content: 
+  - Images to report
+Data: 
+  - Cryptocsv/Crypto Ind before update. 
+  - updated data files after update.
+
+Notebook Organization:
+  - EDA - Exploratory Data Analysis
+  - nb-indicators - exploring indicators, and understanding them
+  - nb-converter - dataframe converter
+  - nb_coinname - exploring each coin
+
+
+
 # BC4: Cryptocurrency Value Prediction
 
 **Problem type:** Forecasting
